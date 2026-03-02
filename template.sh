@@ -1,0 +1,16 @@
+#creating directoreis
+mkdir -p src
+mkdir -p research
+
+# creating files
+touch src/__init__.py
+touch src/helper.py
+touch src/prompt.py
+touch env.py
+touch setup.py
+touch app.py
+touch research/trails.ipynb
+touch requirements.txt
+
+
+echo "directory and files are created successfully"
